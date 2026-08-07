@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2026-08-08",
+    "macrostructure": "Index-First",
+    "theme": "Almanac",
+    "theme_axes": "light / roman-serif-mincho / chromatic-other (ledger-green) + warm (oxblood)",
+    "vibe": "二色刷りの叢書・生成り紙・罫と余白で切る",
+    "genre": "editorial",
+    "nav": "N3 side-rail + masthead rule",
+    "footer": "Ft4 dense colophon",
+    "enrichment": "none (typography only)",
+    "scope": "app",
+    "brief": "六十日教本 — 巻一 バイブコーディング60日 / 別冊 裏側大全10章 / 巻二 データ通信技術60日。単一HTMLの再設計と巻二の新設"
+  }
+]
