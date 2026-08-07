@@ -1,6 +1,19 @@
 [
   {
     "date": "2026-08-08",
+    "macrostructure": "Bento Grid (+ numbered week rails)",
+    "theme": "Hum",
+    "theme_axes": "light cream / rounded-sans / multi (pear + cyan + coral)",
+    "vibe": "丸っこくて跳ねる。巻ごとに刷り色を持つ学習アプリ",
+    "genre": "playful",
+    "nav": "N7 slab bar + volume tabs",
+    "footer": "Ft8 marquee",
+    "enrichment": "none (CSS character mark)",
+    "scope": "app",
+    "brief": "六十日教本 — ポップで楽しい方向へ再設計（redesign --mood playful）。前回 Index-First / Almanac から macrostructure・theme・nav・footer すべて変更"
+  },
+  {
+    "date": "2026-08-08",
     "macrostructure": "Index-First",
     "theme": "Almanac",
     "theme_axes": "light / roman-serif-mincho / chromatic-other (ledger-green) + warm (oxblood)",
